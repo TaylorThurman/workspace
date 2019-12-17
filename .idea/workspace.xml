@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="005363a1-9cd5-4d45-b361-4c865dea8f6b" name="Default" comment="">
+    <list default="true" id="005363a1-9cd5-4d45-b361-4c865dea8f6b" name="Default" comment="more algos">
+      <change afterPath="$PROJECT_DIR$/src/com/astontech/Batman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/astontech/interview/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/astontech/interview/Poker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/astontech/CollectionConcepts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/astontech/CollectionConcepts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WorkSpace/META-INF/WorkSpace.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WorkSpace/com/astontech/menteeTrainingAlgos/codeSignal/AddTwoHugeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorkSpace/com/astontech/menteeTrainingAlgos/codeSignal/AddTwoHugeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/WorkspaceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AddBorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AllLongestStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AlmostIncreasingSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AreSimilar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/CommonCharacterCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/IsLucky.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/MakeArrayConsecutive2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/MatrixElementSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/ReverseParenthesis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/SortByHeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/centuryFromYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/checkPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/digitRootSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/firstDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/shapeArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/zigzag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/randomAlgos/puzzConferenceNewFriend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/workspace/workspace/WorkspaceApplicationTests.java" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,11 +61,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="old_workspace_merge" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PQCGZvcUCI1HXkRJOy8dTIGwLf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -49,8 +84,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../com.astontech.onboard.wiz" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -63,45 +99,7 @@
       <recent name="com.astontech.learningDataStructures.ds.linkedList.circularLinkedList" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.AddTwoHugeNumbers">
-    <configuration name="AddTwoHugeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.astontech.menteeTrainingAlgos.codeSignal.AddTwoHugeNumbers" />
-      <module name="WorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.astontech.menteeTrainingAlgos.codeSignal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AllLongestStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.astontech.menteeTrainingAlgos.codeSignal.AllLongestStrings" />
-      <module name="WorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.astontech.menteeTrainingAlgos.codeSignal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ConwayChecker">
     <configuration name="AllLongestStringsMentee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.astontech.menteeTrainingAlgos.codeSignal.AllLongestStringsMentee" />
       <module name="WorkSpace" />
@@ -115,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AmendTheSentenceMentee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.astontech.menteeTrainingAlgos.codeSignal.AmendTheSentenceMentee" />
+    <configuration name="Batman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.astontech.Batman" />
       <module name="WorkSpace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.astontech.menteeTrainingAlgos.codeSignal.*" />
+          <option name="PATTERN" value="com.astontech.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +126,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.astontech.menteeTrainingAlgos.strings.StrStr" />
+    <configuration name="ConwayChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.astontech.interview.ConwayChecker" />
       <module name="WorkSpace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.astontech.menteeTrainingAlgos.strings.*" />
+          <option name="PATTERN" value="com.astontech.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.astontech.interview.FizzBuzz" />
+      <module name="WorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.astontech.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Poker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.astontech.interview.Poker" />
+      <module name="WorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.astontech.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,21 +166,33 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AmendTheSentenceMentee" />
-      <item itemvalue="Application.StrStr" />
-      <item itemvalue="Application.AddTwoHugeNumbers" />
-      <item itemvalue="Application.AllLongestStrings" />
       <item itemvalue="Application.AllLongestStringsMentee" />
+      <item itemvalue="Application.Poker" />
+      <item itemvalue="Application.Batman" />
+      <item itemvalue="Application.FizzBuzz" />
+      <item itemvalue="Application.ConwayChecker" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddTwoHugeNumbers" />
+        <item itemvalue="Application.ConwayChecker" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.Batman" />
+        <item itemvalue="Application.Poker" />
         <item itemvalue="Application.AllLongestStringsMentee" />
-        <item itemvalue="Application.AllLongestStrings" />
-        <item itemvalue="Application.StrStr" />
-        <item itemvalue="Application.AmendTheSentenceMentee" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -197,41 +233,39 @@
       <workItem from="1565965441960" duration="17486000" />
       <workItem from="1566313732869" duration="601000" />
       <workItem from="1566323262003" duration="17369000" />
-      <workItem from="1566492818999" duration="2354000" />
+      <workItem from="1566492818999" duration="7747000" />
+      <workItem from="1566934044727" duration="615000" />
+      <workItem from="1566940111848" duration="3595000" />
+      <workItem from="1567011752346" duration="21000" />
+      <workItem from="1567618571074" duration="1979000" />
+      <workItem from="1567623317693" duration="2907000" />
+      <workItem from="1567626292058" duration="299000" />
+      <workItem from="1569856182048" duration="1224000" />
+      <workItem from="1571068099190" duration="28000" />
+      <workItem from="1571240805389" duration="1312000" />
+      <workItem from="1574701303616" duration="5034000" />
+      <workItem from="1575653301261" duration="1715000" />
+      <workItem from="1576015010970" duration="2900000" />
+      <workItem from="1576081184469" duration="1107000" />
+      <workItem from="1576531447871" duration="3099000" />
+      <workItem from="1576599243558" duration="108000" />
     </task>
+    <task id="LOCAL-00001" summary="more algos">
+      <created>1566510500857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566510500857</updated>
+    </task>
+    <task id="LOCAL-00002" summary="more algos">
+      <created>1566510523326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566510523326</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="FizzBuzzNumberAddTest - 2018.01.09 at 11h 25m 00s.xml">
-      <configuration name="FizzBuzzNumberAddTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzNumberAddTest - 2018.01.09 at 11h 25m 05s.xml">
-      <configuration name="FizzBuzzNumberAddTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzNumberAddTest - 2018.01.09 at 11h 33m 45s.xml">
-      <configuration name="FizzBuzzNumberAddTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzNumberAddTest - 2018.01.09 at 11h 34m 45s.xml">
-      <configuration name="FizzBuzzNumberAddTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzNumberAddTest - 2018.01.09 at 11h 35m 41s.xml">
-      <configuration name="FizzBuzzNumberAddTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzNumberAddTest - 2018.01.09 at 11h 36m 04s.xml">
-      <configuration name="FizzBuzzNumberAddTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzNumberAddTest - 2018.01.09 at 11h 37m 20s.xml">
-      <configuration name="FizzBuzzNumberAddTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzNumberAddTest - 2018.01.09 at 13h 36m 11s.xml">
-      <configuration name="FizzBuzzNumberAddTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzNumberAddTest - 2018.01.09 at 13h 36m 44s.xml">
-      <configuration name="FizzBuzzNumberAddTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzNumberAddTest - 2018.01.09 at 13h 37m 14s.xml">
-      <configuration name="FizzBuzzNumberAddTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -248,6 +282,69 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="more algos" />
+    <option name="LAST_COMMIT_MESSAGE" value="more algos" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="444" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576531499803">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="804" y="444" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531499803" />
+    <state width="2514" height="326" key="GridCell.Tab.0.bottom" timestamp="1576537749935">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
+    <state width="2514" height="326" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
+    <state width="2514" height="326" key="GridCell.Tab.0.center" timestamp="1576537749935">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
+    <state width="2514" height="326" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
+    <state width="2514" height="326" key="GridCell.Tab.0.left" timestamp="1576537749935">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
+    <state width="2514" height="326" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
+    <state width="2514" height="326" key="GridCell.Tab.0.right" timestamp="1576537749935">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
+    <state width="2514" height="326" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
+    <state width="2514" height="326" key="GridCell.Tab.1.bottom" timestamp="1576537749935">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1874" height="316" key="GridCell.Tab.1.bottom/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531959373" />
+    <state width="2514" height="326" key="GridCell.Tab.1.bottom/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
+    <state width="2514" height="326" key="GridCell.Tab.1.center" timestamp="1576537749935">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1874" height="316" key="GridCell.Tab.1.center/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531959373" />
+    <state width="2514" height="326" key="GridCell.Tab.1.center/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
+    <state width="2514" height="326" key="GridCell.Tab.1.left" timestamp="1576537749935">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1874" height="316" key="GridCell.Tab.1.left/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531959373" />
+    <state width="2514" height="326" key="GridCell.Tab.1.left/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
+    <state width="2514" height="326" key="GridCell.Tab.1.right" timestamp="1576537749935">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1874" height="316" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531959373" />
+    <state width="2514" height="326" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
+    <state x="614" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1576599404524">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="614" y="362" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1576599404524" />
+    <state x="614" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576081664687" />
+    <state x="269" y="240" width="1372" height="595" key="new project wizard" timestamp="1575759135659">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="269" y="240" width="1372" height="595" key="new project wizard/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1575759135659" />
+    <state x="624" y="253" key="run.anything.popup" timestamp="1576015607342">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="253" key="run.anything.popup/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576015607342" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -295,6 +392,11 @@
           <url>file://$PROJECT_DIR$/src/com/astontech/menteeTrainingAlgos/codeSignal/AddTwoHugeNumbers.java</url>
           <line>44</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/astontech/interview/ConwayChecker.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
