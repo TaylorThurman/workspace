@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - burgerTime",
+            "request": "launch",
+            "mainClass": "burgerTime",
+            "projectName": "workspace"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IsLucky",
+            "request": "launch",
+            "mainClass": "IsLucky",
+            "projectName": "workspace"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AlternatingCharacters",
+            "request": "launch",
+            "mainClass": "AlternatingCharacters",
+            "projectName": "workspace"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "workspace"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddTwoHugeNumbers",
+            "request": "launch",
+            "mainClass": "AddTwoHugeNumbers",
+            "projectName": "workspace"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppendAndDelete",
+            "request": "launch",
+            "mainClass": "AppendAndDelete",
+            "projectName": "workspace"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - puzzConferenceNewFriend",
+            "request": "launch",
+            "mainClass": "puzzConferenceNewFriend",
+            "projectName": "workspace"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayLeftRotation",
+            "request": "launch",
+            "mainClass": "ArrayLeftRotation",
+            "projectName": "workspace"
+        }
+    ]
+}

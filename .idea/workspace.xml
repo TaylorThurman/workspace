@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="005363a1-9cd5-4d45-b361-4c865dea8f6b" name="Default" comment="more algos">
-      <change afterPath="$PROJECT_DIR$/src/com/astontech/Batman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/astontech/interview/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/astontech/interview/Poker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WorkSpace/META-INF/WorkSpace.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WorkSpace/com/astontech/menteeTrainingAlgos/codeSignal/AddTwoHugeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorkSpace/com/astontech/menteeTrainingAlgos/codeSignal/AddTwoHugeNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/WorkspaceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AddBorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AllLongestStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AlmostIncreasingSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AreSimilar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/CommonCharacterCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/IsLucky.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/MakeArrayConsecutive2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/MatrixElementSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/ReverseParenthesis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/SortByHeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/centuryFromYear.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/checkPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/digitRootSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/firstDuplicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/shapeArea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/zigzag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/randomAlgos/puzzConferenceNewFriend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/workspace/workspace/WorkspaceApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,6 +222,7 @@
       <workItem from="1576081184469" duration="1107000" />
       <workItem from="1576531447871" duration="3099000" />
       <workItem from="1576599243558" duration="108000" />
+      <workItem from="1576599386838" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="more algos">
       <created>1566510500857</created>
@@ -264,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566510523326</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="more algos">
+      <created>1576599467091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576599467092</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +273,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="804" y="444" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531499803" />
+    <state x="510" y="59" width="890" height="986" key="CommitChangelistDialog2" timestamp="1576599466491">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="510" y="59" width="890" height="986" key="CommitChangelistDialog2/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1576599466491" />
     <state width="2514" height="326" key="GridCell.Tab.0.bottom" timestamp="1576537749935">
       <screen x="1920" y="0" width="2560" height="1080" />
     </state>
@@ -332,6 +317,10 @@
     </state>
     <state width="1874" height="316" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531959373" />
     <state width="2514" height="326" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
+    <state x="555" y="284" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1576599470633">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="284" width="800" height="536" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1576599470633" />
     <state x="614" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1576599404524">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
