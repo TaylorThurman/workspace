@@ -1,75 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="005363a1-9cd5-4d45-b361-4c865dea8f6b" name="Default" comment="more algos">
-      <change afterPath="$PROJECT_DIR$/src/com/astontech/Batman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/astontech/interview/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/astontech/interview/Poker.java" afterDir="false" />
+    <list default="true" id="8d954c01-cf30-4506-af42-cb059913ae37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WorkSpace/META-INF/WorkSpace.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WorkSpace/com/astontech/menteeTrainingAlgos/codeSignal/AddTwoHugeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorkSpace/com/astontech/menteeTrainingAlgos/codeSignal/AddTwoHugeNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/WorkspaceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AddBorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AllLongestStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AlmostIncreasingSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AreSimilar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/CommonCharacterCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/IsLucky.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/MakeArrayConsecutive2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/MatrixElementSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/ReverseParenthesis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/SortByHeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/centuryFromYear.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/checkPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/digitRootSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/firstDuplicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/shapeArea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/zigzag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/randomAlgos/puzzConferenceNewFriend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/workspace/workspace/WorkspaceApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/WorkSpace$App__2_.coverage" NAME="App (2) Coverage Results" MODIFIED="1515084591903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.astontech.learningDataStructures.ds.linkedList.singlyLinkedList.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="FileColors">
-    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
-    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
-    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
-    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JUnit5 Test Class" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="old_workspace_merge" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1PQCGZvcUCI1HXkRJOy8dTIGwLf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1V7N6LIXtUZEuP9hwuPQf8QJNHw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -77,110 +28,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.astontech" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.astontech.learningDataStructures.ds.linkedList.circularLinkedList" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.ConwayChecker">
-    <configuration name="AllLongestStringsMentee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.astontech.menteeTrainingAlgos.codeSignal.AllLongestStringsMentee" />
-      <module name="WorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.astontech.menteeTrainingAlgos.codeSignal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Batman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.astontech.Batman" />
-      <module name="WorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.astontech.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConwayChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.astontech.interview.ConwayChecker" />
-      <module name="WorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.astontech.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.astontech.interview.FizzBuzz" />
-      <module name="WorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.astontech.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Poker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.astontech.interview.Poker" />
-      <module name="WorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.astontech.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.AllLongestStringsMentee" />
-      <item itemvalue="Application.Poker" />
-      <item itemvalue="Application.Batman" />
-      <item itemvalue="Application.FizzBuzz" />
-      <item itemvalue="Application.ConwayChecker" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ConwayChecker" />
-        <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.Batman" />
-        <item itemvalue="Application.Poker" />
-        <item itemvalue="Application.AllLongestStringsMentee" />
-      </list>
-    </recent_temporary>
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -199,206 +50,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="005363a1-9cd5-4d45-b361-4c865dea8f6b" name="Default" comment="" />
-      <created>1510774791278</created>
+      <changelist id="8d954c01-cf30-4506-af42-cb059913ae37" name="Default Changelist" comment="" />
+      <created>1576599996860</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1510774791278</updated>
-      <workItem from="1510774799499" duration="3799000" />
-      <workItem from="1511282044120" duration="3227000" />
-      <workItem from="1511890036124" duration="2427000" />
-      <workItem from="1512179453597" duration="2411000" />
-      <workItem from="1512679411504" duration="1353000" />
-      <workItem from="1512751741050" duration="627000" />
-      <workItem from="1513184507029" duration="599000" />
-      <workItem from="1513218060834" duration="174000" />
-      <workItem from="1513267013905" duration="22000" />
-      <workItem from="1513353684561" duration="2139000" />
-      <workItem from="1513356663159" duration="599000" />
-      <workItem from="1513887200486" duration="5154000" />
-      <workItem from="1513892417409" duration="1165000" />
-      <workItem from="1514580891623" duration="1917000" />
-      <workItem from="1515006436574" duration="11262000" />
-      <workItem from="1515083752068" duration="11706000" />
-      <workItem from="1515112125140" duration="40000" />
-      <workItem from="1515442088492" duration="6017000" />
-      <workItem from="1515515366472" duration="6299000" />
-      <workItem from="1515604825810" duration="18000" />
-      <workItem from="1515687871565" duration="4858000" />
-      <workItem from="1515774544105" duration="18000" />
-      <workItem from="1516032167252" duration="5270000" />
-      <workItem from="1516124245207" duration="310000" />
-      <workItem from="1565796839616" duration="4253000" />
-      <workItem from="1565807925180" duration="14293000" />
-      <workItem from="1565965441960" duration="17486000" />
-      <workItem from="1566313732869" duration="601000" />
-      <workItem from="1566323262003" duration="17369000" />
-      <workItem from="1566492818999" duration="7747000" />
-      <workItem from="1566934044727" duration="615000" />
-      <workItem from="1566940111848" duration="3595000" />
-      <workItem from="1567011752346" duration="21000" />
-      <workItem from="1567618571074" duration="1979000" />
-      <workItem from="1567623317693" duration="2907000" />
-      <workItem from="1567626292058" duration="299000" />
-      <workItem from="1569856182048" duration="1224000" />
-      <workItem from="1571068099190" duration="28000" />
-      <workItem from="1571240805389" duration="1312000" />
-      <workItem from="1574701303616" duration="5034000" />
-      <workItem from="1575653301261" duration="1715000" />
-      <workItem from="1576015010970" duration="2900000" />
-      <workItem from="1576081184469" duration="1107000" />
-      <workItem from="1576531447871" duration="3099000" />
-      <workItem from="1576599243558" duration="108000" />
+      <updated>1576599996860</updated>
+      <workItem from="1576599998395" duration="150000" />
     </task>
-    <task id="LOCAL-00001" summary="more algos">
-      <created>1566510500857</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1566510500857</updated>
-    </task>
-    <task id="LOCAL-00002" summary="more algos">
-      <created>1566510523326</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1566510523326</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="more algos" />
-    <option name="LAST_COMMIT_MESSAGE" value="more algos" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="804" y="444" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576531499803">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="67" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576600114677">
+      <screen x="67" y="27" width="893" height="513" />
     </state>
-    <state x="804" y="444" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531499803" />
-    <state width="2514" height="326" key="GridCell.Tab.0.bottom" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
+    <state x="67" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/960.0.1280.720/2240.0.960.540/67.27.893.513@67.27.893.513" timestamp="1576600114677" />
+    <state x="518" y="260" width="307" height="224" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576600055304">
+      <screen x="67" y="27" width="893" height="513" />
     </state>
-    <state width="1874" height="173" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
-    <state width="2514" height="326" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
-    <state width="2514" height="326" key="GridCell.Tab.0.center" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
+    <state x="518" y="260" width="307" height="224" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/960.0.1280.720/2240.0.960.540/67.27.893.513@67.27.893.513" timestamp="1576600055304" />
+    <state x="67" y="27" key="SettingsEditor" timestamp="1576600147717">
+      <screen x="67" y="27" width="893" height="513" />
     </state>
-    <state width="1874" height="173" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
-    <state width="2514" height="326" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
-    <state width="2514" height="326" key="GridCell.Tab.0.left" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
-    </state>
-    <state width="1874" height="173" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
-    <state width="2514" height="326" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
-    <state width="2514" height="326" key="GridCell.Tab.0.right" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
-    </state>
-    <state width="1874" height="173" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
-    <state width="2514" height="326" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
-    <state width="2514" height="326" key="GridCell.Tab.1.bottom" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
-    </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.bottom/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531959373" />
-    <state width="2514" height="326" key="GridCell.Tab.1.bottom/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
-    <state width="2514" height="326" key="GridCell.Tab.1.center" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
-    </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.center/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531959373" />
-    <state width="2514" height="326" key="GridCell.Tab.1.center/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
-    <state width="2514" height="326" key="GridCell.Tab.1.left" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
-    </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.left/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531959373" />
-    <state width="2514" height="326" key="GridCell.Tab.1.left/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
-    <state width="2514" height="326" key="GridCell.Tab.1.right" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
-    </state>
-    <state width="1874" height="316" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531959373" />
-    <state width="2514" height="326" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
-    <state x="614" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1576599404524">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="614" y="362" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1576599404524" />
-    <state x="614" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576081664687" />
-    <state x="269" y="240" width="1372" height="595" key="new project wizard" timestamp="1575759135659">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="269" y="240" width="1372" height="595" key="new project wizard/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1575759135659" />
-    <state x="624" y="253" key="run.anything.popup" timestamp="1576015607342">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="624" y="253" key="run.anything.popup/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576015607342" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/Collection.class</url>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/astontech/menteeTrainingAlgos/strings/AlternatingCharacters.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/astontech/menteeTrainingAlgos/strings/AlternatingCharactersMentee.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/astontech/menteeTrainingAlgos/arrays/ArrayLeftRotation.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/astontech/menteeTrainingAlgos/strings/StringReverse.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/astontech/menteeTrainingAlgos/codeSignal/Minesweeper.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/astontech/menteeTrainingAlgos/codeSignal/ReverseInParentheses.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/astontech/menteeTrainingAlgos/strings/StrStr.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/astontech/menteeTrainingAlgos/codeSignal/AddTwoHugeNumbers.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/astontech/interview/ConwayChecker.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="67" y="27" key="SettingsEditor/960.0.1280.720/2240.0.960.540/67.27.893.513@67.27.893.513" timestamp="1576600147717" />
   </component>
 </project>
