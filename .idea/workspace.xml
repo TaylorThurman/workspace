@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="005363a1-9cd5-4d45-b361-4c865dea8f6b" name="Default" comment="more algos">
-      <change afterPath="$PROJECT_DIR$/src/com/astontech/Batman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/astontech/interview/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/astontech/interview/Poker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WorkSpace/META-INF/WorkSpace.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WorkSpace/com/astontech/menteeTrainingAlgos/codeSignal/AddTwoHugeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WorkSpace/com/astontech/menteeTrainingAlgos/codeSignal/AddTwoHugeNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/WorkspaceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AddBorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AllLongestStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AlmostIncreasingSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/AreSimilar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/CommonCharacterCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/IsLucky.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/MakeArrayConsecutive2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/MatrixElementSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/ReverseParenthesis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/SortByHeight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/centuryFromYear.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/checkPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/digitRootSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/firstDuplicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/shapeArea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/codeSignalAlgos/zigzag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/workspace/workspace/randomAlgos/puzzConferenceNewFriend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/workspace/workspace/WorkspaceApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="old_workspace_merge" />
+        <entry key="$PROJECT_DIR$" value="Camron" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,13 +72,13 @@
       <recent name="com.astontech.learningDataStructures.ds.linkedList.circularLinkedList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConwayChecker">
-    <configuration name="AllLongestStringsMentee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.astontech.menteeTrainingAlgos.codeSignal.AllLongestStringsMentee" />
+  <component name="RunManager" selected="Application.AbrstractFizzBuzz">
+    <configuration name="AbrstractFizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.astontech.AbrstractFizzBuzz" />
       <module name="WorkSpace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.astontech.menteeTrainingAlgos.codeSignal.*" />
+          <option name="PATTERN" value="com.astontech.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +139,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AllLongestStringsMentee" />
       <item itemvalue="Application.Poker" />
       <item itemvalue="Application.Batman" />
       <item itemvalue="Application.FizzBuzz" />
       <item itemvalue="Application.ConwayChecker" />
+      <item itemvalue="Application.AbrstractFizzBuzz" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbrstractFizzBuzz" />
         <item itemvalue="Application.ConwayChecker" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.Batman" />
         <item itemvalue="Application.Poker" />
-        <item itemvalue="Application.AllLongestStringsMentee" />
       </list>
     </recent_temporary>
   </component>
@@ -249,6 +222,7 @@
       <workItem from="1576081184469" duration="1107000" />
       <workItem from="1576531447871" duration="3099000" />
       <workItem from="1576599243558" duration="108000" />
+      <workItem from="1576599981969" duration="244000" />
     </task>
     <task id="LOCAL-00001" summary="more algos">
       <created>1566510500857</created>
@@ -288,30 +262,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="more algos" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="67" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576600308827">
+      <screen x="67" y="27" width="893" height="513" />
+    </state>
+    <state x="67" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/960.0.1280.720/67.27.893.513/2240.0.960.540@67.27.893.513" timestamp="1576600308827" />
     <state x="804" y="444" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576531499803">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="804" y="444" width="302" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576531499803" />
-    <state width="2514" height="326" key="GridCell.Tab.0.bottom" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
+    <state width="1167" height="159" key="GridCell.Tab.0.bottom" timestamp="1576600281199">
+      <screen x="67" y="27" width="893" height="513" />
     </state>
     <state width="1874" height="173" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
     <state width="2514" height="326" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
-    <state width="2514" height="326" key="GridCell.Tab.0.center" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
+    <state width="1167" height="159" key="GridCell.Tab.0.bottom/960.0.1280.720/67.27.893.513/2240.0.960.540@67.27.893.513" timestamp="1576600281199" />
+    <state width="1167" height="159" key="GridCell.Tab.0.center" timestamp="1576600281199">
+      <screen x="67" y="27" width="893" height="513" />
     </state>
     <state width="1874" height="173" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
     <state width="2514" height="326" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
-    <state width="2514" height="326" key="GridCell.Tab.0.left" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
+    <state width="1167" height="159" key="GridCell.Tab.0.center/960.0.1280.720/67.27.893.513/2240.0.960.540@67.27.893.513" timestamp="1576600281199" />
+    <state width="1167" height="159" key="GridCell.Tab.0.left" timestamp="1576600281199">
+      <screen x="67" y="27" width="893" height="513" />
     </state>
     <state width="1874" height="173" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
     <state width="2514" height="326" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
-    <state width="2514" height="326" key="GridCell.Tab.0.right" timestamp="1576537749935">
-      <screen x="1920" y="0" width="2560" height="1080" />
+    <state width="1167" height="159" key="GridCell.Tab.0.left/960.0.1280.720/67.27.893.513/2240.0.960.540@67.27.893.513" timestamp="1576600281199" />
+    <state width="1167" height="159" key="GridCell.Tab.0.right" timestamp="1576600281199">
+      <screen x="67" y="27" width="893" height="513" />
     </state>
     <state width="1874" height="173" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1576532170560" />
     <state width="2514" height="326" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1576537749935" />
+    <state width="1167" height="159" key="GridCell.Tab.0.right/960.0.1280.720/67.27.893.513/2240.0.960.540@67.27.893.513" timestamp="1576600281199" />
     <state width="2514" height="326" key="GridCell.Tab.1.bottom" timestamp="1576537749935">
       <screen x="1920" y="0" width="2560" height="1080" />
     </state>
